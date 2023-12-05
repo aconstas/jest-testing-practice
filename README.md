@@ -12,3 +12,4 @@ module.exports = {
 };
 ```  
 ### Here are some general notes about **testing** that may be helpful:
+![notes on testing](./images/f16n1v4b.bmp)
